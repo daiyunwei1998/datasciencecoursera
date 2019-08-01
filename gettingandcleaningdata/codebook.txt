@@ -1,0 +1,15 @@
+For variable names used in this dataset:
+
+Subject: subject id participated in the study
+activity:  activity this record belongs to
+
+Other variable name codings:
+t:time domain signals
+f:frequency domain signals
+'-XYZ' is used to denote 3-axial signals in the X, Y and Z directions.
+mean(): Mean value
+std(): Standard deviation
+Acc: data recorded by accelerometer
+Gyro: data recorded by gyroscope
+Mag: magnitude of signals
+Jerk: jerk signal obtained by depriving the body linear acceleration and angular velocity
